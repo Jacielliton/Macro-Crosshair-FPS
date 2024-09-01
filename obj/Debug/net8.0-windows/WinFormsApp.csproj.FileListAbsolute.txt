@@ -1,0 +1,14 @@
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.exe
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.deps.json
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.dll
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\refint\WinFormsApp.dll
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll

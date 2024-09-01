@@ -12,3 +12,4 @@ C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-wind
 C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.pdb
 C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.genruntimeconfig.cache
 C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\ref\WinFormsApp.dll
+C:\Users\WELL\Documents\CODIGOS\C#\PDV-Simples\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\PDV-Simples\\WinFormsApp\\WinFormsApp.csproj": {}
+    "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\Macro e Crosshair Jogo FPS\\WinFormsApp\\WinFormsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\PDV-Simples\\WinFormsApp\\WinFormsApp.csproj": {
+    "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\Macro e Crosshair Jogo FPS\\WinFormsApp\\WinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\PDV-Simples\\WinFormsApp\\WinFormsApp.csproj",
+        "projectUniqueName": "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\Macro e Crosshair Jogo FPS\\WinFormsApp\\WinFormsApp.csproj",
         "projectName": "WinFormsApp",
-        "projectPath": "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\PDV-Simples\\WinFormsApp\\WinFormsApp.csproj",
+        "projectPath": "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\Macro e Crosshair Jogo FPS\\WinFormsApp\\WinFormsApp.csproj",
         "packagesPath": "C:\\Users\\WELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\PDV-Simples\\WinFormsApp\\obj\\",
+        "outputPath": "C:\\Users\\WELL\\Documents\\CODIGOS\\C#\\Macro e Crosshair Jogo FPS\\WinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

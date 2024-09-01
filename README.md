@@ -2,7 +2,7 @@ Este é um programa desenvolvido em C# para criar uma sobreposição de mira em 
 
 ## Funcionalidades
 
-- **Seleção de Mira:** Escolha entre três tipos de mira: `Cross`, `Circle`, ou `Dot`.
+- **Seleção de Mira:** Escolha entre três tipos de mira: `Cross`(cruz), `Circle`(circulo), ou `Dot`(um ponto).
 - **Cores da Mira:** Selecione a cor da mira entre `Red`, `Green`, `Blue`, `Yellow`, ou `White`.
 - **Controle de Recuo:** O programa oferece macros de controle de recuo para três armas:
   - `SMG (Recuo Leve)`

@@ -30,6 +30,6 @@ Este é um programa desenvolvido em C# para criar uma sobreposição de mira em 
 
 ### Pré-requisitos
 
-- .NET SDK 6.0 ou superior. Você pode verificar se o .NET SDK está instalado com o comando:
+- .NET SDK 8.0 ou superior. Você pode verificar se o .NET SDK está instalado com o comando:
   ```bash
   dotnet --version

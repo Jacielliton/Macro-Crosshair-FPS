@@ -47,7 +47,7 @@ namespace WinFormsApp
 
         public MainForm()
         {
-            Text = "Crosshair & Macro Selector";
+            Text = "Crosshair & Macro Selector- Youtube.com/@tecnopriv.top1";
             Width = 350;
             Height = 400;  // Aumentar a altura do formulário
 
@@ -129,7 +129,7 @@ namespace WinFormsApp
             // Adicionar Label com a instrução para fechar
             instructionLabel = new Label
             {
-                Text = "Pressione Ctrl + Alt + I para iniciar a macro\nPressione Ctrl + Alt + J para parar a macro\nPressione Ctrl + Alt + K para fechar a sobreposição",
+                Text = "Pressione Ctrl + Alt + I para iniciar a macro\nPressione Ctrl + Alt + J para parar a macro\nPressione Ctrl + Alt + K para fechar a sobreposição\nBy Youtube.com/@tecnopriv.top1",
                 Dock = DockStyle.Bottom,
                 TextAlign = ContentAlignment.MiddleCenter,
                 Padding = new Padding(0, 10, 0, 0),
